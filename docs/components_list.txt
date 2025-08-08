@@ -1,0 +1,6 @@
+Arduino Nano
+L298N Motor Driver Board
+2 x DC Motors
+MPU6050 Gyroscope + Accelerometer
+9V Battery
+Jumper Wires
